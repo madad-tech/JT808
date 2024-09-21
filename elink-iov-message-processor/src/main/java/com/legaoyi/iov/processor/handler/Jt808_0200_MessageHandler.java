@@ -40,10 +40,6 @@ public class Jt808_0200_MessageHandler extends MessageHandler {
         Map<String, Object> messageBody = (Map<String, Object>) map.get(Constants.MAP_KEY_MESSAGE_MESSAGE_BODY);
         logger.info("******位置信息，message={}", message);
 
-        if (getSuccessor() != null) {
-            getSuccessor().handle(message);
-        }
-		
 		
 		// 响应终端
         Map<String, Object> respMessageHeader = new HashMap<String, Object>();
