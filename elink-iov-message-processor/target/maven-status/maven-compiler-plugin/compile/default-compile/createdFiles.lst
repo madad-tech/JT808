@@ -6,6 +6,7 @@ com\legaoyi\iov\processor\activemq\ActiveMqConfig.class
 com\legaoyi\AppApplicationListener.class
 com\legaoyi\iov\processor\handler\DeviceUpstreamMessageHandler$1.class
 com\legaoyi\iov\processor\message\ExchangeMessage.class
+com\legaoyi\iov\processor\handler\DatastreamMessageSendHandler.class
 com\legaoyi\iov\processor\handler\GatewayUpstreamMessageHandler.class
 com\legaoyi\iov\processor\handler\MessageHandler.class
 com\legaoyi\iov\processor\activemq\ActiveMqListener.class

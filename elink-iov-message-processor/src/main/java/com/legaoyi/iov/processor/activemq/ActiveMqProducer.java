@@ -19,6 +19,10 @@ public class ActiveMqProducer {
     @Autowired
     @Qualifier("downstreamQueue")
     private Queue downstreamQueue;
+	
+	@Autowired
+    @Qualifier("datastreamQueue")
+    private Queue datastreamQueue;
 
     @Autowired
     private JmsMessagingTemplate jmsTemplate;
@@ -30,5 +34,9 @@ public class ActiveMqProducer {
 
     public void sendQueueMessage(final String message) {
         sendMessage(downstreamQueue, message);
+    }
+	
+	public void sendDataQueueMessage(final String message) {
+        sendMessage(datastreamQueue, message);
     }
 }

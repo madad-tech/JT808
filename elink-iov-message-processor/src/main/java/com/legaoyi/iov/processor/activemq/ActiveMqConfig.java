@@ -34,6 +34,9 @@ public class ActiveMqConfig {
 
     @Value("${spring.activemq.downstream.queue}")
     private String downstreamQueue;
+	
+	@Value("${spring.activemq.datastream.queue}")
+    private String datastreamQueue;
 
     @Bean("upstreamQueue")
     public Queue upstreamQueue() {
@@ -43,6 +46,11 @@ public class ActiveMqConfig {
     @Bean("downstreamQueue")
     public Queue downstreamQueue() {
         return new ActiveMQQueue(downstreamQueue);
+    }
+	
+	@Bean("datastreamQueue")
+    public Queue datastreamQueue() {
+        return new ActiveMQQueue(datastreamQueue);
     }
 
     @Bean("upstreamMessageHandler")
