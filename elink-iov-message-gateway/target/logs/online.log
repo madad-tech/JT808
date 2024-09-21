@@ -1,0 +1,199 @@
+[2024/08/20-10:32:25.744]-******sessionOpened,sessionId=2，ip=127.0.0.1
+[2024/08/20-10:33:42.247]-******IOException,close session, simCode=null
+[2024/08/20-10:33:42.247]-******device offline,simCode=null
+[2024/08/20-10:33:42.247]-******sessionClosed, sessionId=2
+[2024/08/20-12:19:37.680]-******sessionOpened,sessionId=6，ip=192.168.100.27
+[2024/08/20-12:19:37.590]-******sessionOpened,sessionId=2，ip=192.168.100.27
+[2024/08/20-12:19:39.113]-******create session,simCode=013100000002,creationTime=1724156376696
+[2024/08/20-12:19:39.113]-******create session,simCode=013100000000,creationTime=1724156374847
+[2024/08/20-12:19:48.196]-******sessionOpened,sessionId=3，ip=192.168.100.27
+[2024/08/20-12:19:48.196]-******sessionOpened,sessionId=4，ip=192.168.100.27
+[2024/08/20-12:19:48.197]-******create session,simCode=013100000001,creationTime=1724156376694
+[2024/08/20-12:19:48.218]-******create session,simCode=013100000004,creationTime=1724156376694
+[2024/08/20-12:19:48.334]-******sessionOpened,sessionId=5，ip=192.168.100.27
+[2024/08/20-12:19:48.334]-******create session,simCode=013100000003,creationTime=1724156376696
+[2024/08/20-12:21:33.525]-******sessionClosed, sessionId=4
+[2024/08/20-12:21:33.526]-******sessionClosed, sessionId=5
+[2024/08/20-12:21:33.526]-******sessionClosed, sessionId=6
+[2024/08/20-12:21:33.526]-******sessionClosed, sessionId=2
+[2024/08/20-12:21:33.526]-******sessionClosed, sessionId=3
+[2024/08/20-12:22:13.755]-******sessionOpened,sessionId=8，ip=192.168.100.27
+[2024/08/20-12:22:13.762]-******sessionOpened,sessionId=10，ip=192.168.100.27
+[2024/08/20-12:22:13.783]-******sessionOpened,sessionId=7，ip=192.168.100.27
+[2024/08/20-12:22:13.789]-******sessionOpened,sessionId=9，ip=192.168.100.27
+[2024/08/20-12:22:13.798]-******sessionOpened,sessionId=11，ip=192.168.100.27
+[2024/08/20-12:22:13.912]-******create session,simCode=001310000002,creationTime=1724156533772
+[2024/08/20-12:22:13.923]-******create session,simCode=001310000003,creationTime=1724156533758
+[2024/08/20-12:22:13.970]-******create session,simCode=001310000001,creationTime=1724156533751
+[2024/08/20-12:22:14.004]-******create session,simCode=001310000004,creationTime=1724156533754
+[2024/08/20-12:22:14.732]-******sessionOpened,sessionId=12，ip=192.168.100.27
+[2024/08/20-12:22:14.734]-******sessionOpened,sessionId=14，ip=192.168.100.27
+[2024/08/20-12:22:14.734]-******sessionOpened,sessionId=13，ip=192.168.100.27
+[2024/08/20-12:22:14.748]-******create session,simCode=001310000005,creationTime=1724156534733
+[2024/08/20-12:22:14.760]-******create session,simCode=001310000000,creationTime=1724156533761
+[2024/08/20-12:22:14.763]-******sessionOpened,sessionId=15，ip=192.168.100.27
+[2024/08/20-12:22:14.764]-******create session,simCode=001310000007,creationTime=1724156534736
+[2024/08/20-12:22:14.847]-******create session,simCode=001310000009,creationTime=1724156534733
+[2024/08/20-12:22:14.852]-******sessionOpened,sessionId=19，ip=192.168.100.27
+[2024/08/20-12:22:14.853]-******create session,simCode=013100000012,creationTime=1724156534802
+[2024/08/20-12:22:14.854]-******sessionOpened,sessionId=18，ip=192.168.100.27
+[2024/08/20-12:22:14.900]-******create session,simCode=001310000006,creationTime=1724156534731
+[2024/08/20-12:22:14.855]-******sessionOpened,sessionId=16，ip=192.168.100.27
+[2024/08/20-12:22:14.855]-******sessionOpened,sessionId=17，ip=192.168.100.27
+[2024/08/20-12:22:14.919]-******create session,simCode=013100000011,creationTime=1724156534786
+[2024/08/20-12:22:14.924]-******create session,simCode=001310000008,creationTime=1724156534801
+[2024/08/20-12:22:14.935]-******create session,simCode=013100000010,creationTime=1724156534783
+[2024/08/20-12:22:14.948]-******sessionOpened,sessionId=20，ip=192.168.100.27
+[2024/08/20-12:22:14.984]-******sessionOpened,sessionId=21，ip=192.168.100.27
+[2024/08/20-12:22:14.992]-******create session,simCode=013100000016,creationTime=1724156534947
+[2024/08/20-12:22:14.998]-******create session,simCode=013100000015,creationTime=1724156534984
+[2024/08/20-12:22:15.028]-******sessionOpened,sessionId=22，ip=192.168.100.27
+[2024/08/20-12:22:15.032]-******sessionOpened,sessionId=23，ip=192.168.100.27
+[2024/08/20-12:22:15.052]-******create session,simCode=013100000014,creationTime=1724156535027
+[2024/08/20-12:22:15.100]-******sessionOpened,sessionId=24，ip=192.168.100.27
+[2024/08/20-12:22:15.100]-******sessionOpened,sessionId=25，ip=192.168.100.27
+[2024/08/20-12:22:15.114]-******sessionOpened,sessionId=26，ip=192.168.100.27
+[2024/08/20-12:22:15.119]-******sessionOpened,sessionId=27，ip=192.168.100.27
+[2024/08/20-12:22:15.128]-******sessionOpened,sessionId=28，ip=192.168.100.27
+[2024/08/20-12:22:15.153]-******create session,simCode=013100000018,creationTime=1724156535031
+[2024/08/20-12:22:15.167]-******create session,simCode=013100000019,creationTime=1724156535119
+[2024/08/20-12:22:15.170]-******create session,simCode=013100000013,creationTime=1724156535033
+[2024/08/20-12:22:15.178]-******sessionOpened,sessionId=29，ip=192.168.100.27
+[2024/08/20-12:22:15.185]-******create session,simCode=013100000017,creationTime=1724156535033
+[2024/08/20-12:22:15.201]-******create session,simCode=013100000020,creationTime=1724156535128
+[2024/08/20-12:22:15.251]-******sessionOpened,sessionId=30，ip=192.168.100.27
+[2024/08/20-12:22:15.252]-******create session,simCode=013100000023,creationTime=1724156535207
+[2024/08/20-12:22:15.257]-******sessionOpened,sessionId=31，ip=192.168.100.27
+[2024/08/20-12:22:15.258]-******create session,simCode=013100000022,creationTime=1724156535178
+[2024/08/20-12:22:15.296]-******create session,simCode=013100000024,creationTime=1724156535233
+[2024/08/20-12:22:15.316]-******sessionOpened,sessionId=32，ip=192.168.100.27
+[2024/08/20-12:22:15.317]-******sessionOpened,sessionId=33，ip=192.168.100.27
+[2024/08/20-12:22:15.317]-******sessionOpened,sessionId=34，ip=192.168.100.27
+[2024/08/20-12:22:15.317]-******sessionOpened,sessionId=35，ip=192.168.100.27
+[2024/08/20-12:22:15.319]-******sessionOpened,sessionId=36，ip=192.168.100.27
+[2024/08/20-12:22:15.325]-******create session,simCode=013100000021,creationTime=1724156535113
+[2024/08/20-12:22:15.333]-******create session,simCode=013100000026,creationTime=1724156535315
+[2024/08/20-12:22:15.361]-******sessionOpened,sessionId=37，ip=192.168.100.27
+[2024/08/20-12:22:15.362]-******create session,simCode=013100000030,creationTime=1724156535344
+[2024/08/20-12:22:15.364]-******create session,simCode=013100000028,creationTime=1724156535315
+[2024/08/20-12:22:15.368]-******sessionOpened,sessionId=39，ip=192.168.100.27
+[2024/08/20-12:22:15.370]-******create session,simCode=013100000032,creationTime=1724156535347
+[2024/08/20-12:22:15.384]-******create session,simCode=013100000025,creationTime=1724156535316
+[2024/08/20-12:22:15.391]-******create session,simCode=013100000027,creationTime=1724156535315
+[2024/08/20-12:22:15.398]-******sessionOpened,sessionId=38，ip=192.168.100.27
+[2024/08/20-12:22:15.398]-******create session,simCode=013100000029,creationTime=1724156535318
+[2024/08/20-12:22:15.439]-******sessionOpened,sessionId=40，ip=192.168.100.27
+[2024/08/20-12:22:15.439]-******create session,simCode=013100000031,creationTime=1724156535346
+[2024/08/20-12:22:15.439]-******sessionOpened,sessionId=41，ip=192.168.100.27
+[2024/08/20-12:22:15.439]-******create session,simCode=013100000035,creationTime=1724156535424
+[2024/08/20-12:22:15.505]-******sessionOpened,sessionId=43，ip=192.168.100.27
+[2024/08/20-12:22:15.505]-******create session,simCode=013100000036,creationTime=1724156535418
+[2024/08/20-12:22:15.526]-******sessionOpened,sessionId=45，ip=192.168.100.27
+[2024/08/20-12:22:15.527]-******sessionOpened,sessionId=48，ip=192.168.100.27
+[2024/08/20-12:22:15.527]-******create session,simCode=013100000043,creationTime=1724156535517
+[2024/08/20-12:22:15.531]-******sessionOpened,sessionId=44，ip=192.168.100.27
+[2024/08/20-12:22:15.534]-******create session,simCode=013100000034,creationTime=1724156535474
+[2024/08/20-12:22:15.534]-******sessionOpened,sessionId=42，ip=192.168.100.27
+[2024/08/20-12:22:15.534]-******sessionOpened,sessionId=49，ip=192.168.100.27
+[2024/08/20-12:22:15.536]-******create session,simCode=013100000044,creationTime=1724156535523
+[2024/08/20-12:22:15.613]-******create session,simCode=013100000038,creationTime=1724156535514
+[2024/08/20-12:22:15.615]-******sessionOpened,sessionId=46，ip=192.168.100.27
+[2024/08/20-12:22:15.643]-******create session,simCode=013100000037,creationTime=1724156535437
+[2024/08/20-12:22:15.616]-******sessionOpened,sessionId=47，ip=192.168.100.27
+[2024/08/20-12:22:15.662]-******create session,simCode=013100000040,creationTime=1724156535515
+[2024/08/20-12:22:15.639]-******sessionOpened,sessionId=50，ip=192.168.100.27
+[2024/08/20-12:22:15.620]-******create session,simCode=013100000033,creationTime=1724156535430
+[2024/08/20-12:22:15.664]-******create session,simCode=013100000042,creationTime=1724156535615
+[2024/08/20-12:22:15.667]-******create session,simCode=013100000039,creationTime=1724156535514
+[2024/08/20-12:22:15.705]-******sessionOpened,sessionId=51，ip=192.168.100.27
+[2024/08/20-12:22:15.705]-******create session,simCode=013100000046,creationTime=1724156535616
+[2024/08/20-12:22:15.772]-******sessionOpened,sessionId=52，ip=192.168.100.27
+[2024/08/20-12:22:15.773]-******create session,simCode=013100000041,creationTime=1724156535616
+[2024/08/20-12:22:15.828]-******sessionOpened,sessionId=53，ip=192.168.100.27
+[2024/08/20-12:22:15.830]-******create session,simCode=013100000045,creationTime=1724156535617
+[2024/08/20-12:22:15.898]-******sessionOpened,sessionId=54，ip=192.168.100.27
+[2024/08/20-12:22:15.901]-******create session,simCode=013100000047,creationTime=1724156535618
+[2024/08/20-12:22:15.952]-******sessionOpened,sessionId=55，ip=192.168.100.27
+[2024/08/20-12:22:15.953]-******create session,simCode=013100000048,creationTime=1724156535619
+[2024/08/20-12:22:16.015]-******sessionOpened,sessionId=56，ip=192.168.100.27
+[2024/08/20-12:22:16.016]-******create session,simCode=013100000049,creationTime=1724156535650
+[2024/08/20-12:22:44.258]-******sessionClosed, sessionId=56
+[2024/08/20-12:22:44.259]-******sessionClosed, sessionId=55
+[2024/08/20-12:22:44.259]-******sessionClosed, sessionId=54
+[2024/08/20-12:22:44.261]-******sessionClosed, sessionId=51
+[2024/08/20-12:22:44.261]-******sessionClosed, sessionId=53
+[2024/08/20-12:22:44.262]-******sessionClosed, sessionId=49
+[2024/08/20-12:22:44.263]-******sessionClosed, sessionId=48
+[2024/08/20-12:22:44.265]-******sessionClosed, sessionId=50
+[2024/08/20-12:22:44.265]-******sessionClosed, sessionId=52
+[2024/08/20-12:22:44.266]-******sessionClosed, sessionId=47
+[2024/08/20-12:22:44.266]-******sessionClosed, sessionId=46
+[2024/08/20-12:22:44.267]-******sessionClosed, sessionId=45
+[2024/08/20-12:22:44.269]-******sessionClosed, sessionId=40
+[2024/08/20-12:22:44.269]-******sessionClosed, sessionId=43
+[2024/08/20-12:22:44.270]-******sessionClosed, sessionId=41
+[2024/08/20-12:22:44.271]-******sessionClosed, sessionId=44
+[2024/08/20-12:22:44.272]-******sessionClosed, sessionId=42
+[2024/08/20-12:22:44.273]-******sessionClosed, sessionId=39
+[2024/08/20-12:22:44.273]-******sessionClosed, sessionId=38
+[2024/08/20-12:22:44.276]-******sessionClosed, sessionId=37
+[2024/08/20-12:22:44.276]-******sessionClosed, sessionId=36
+[2024/08/20-12:22:44.277]-******sessionClosed, sessionId=34
+[2024/08/20-12:22:44.277]-******sessionClosed, sessionId=32
+[2024/08/20-12:22:44.278]-******sessionClosed, sessionId=33
+[2024/08/20-12:22:44.279]-******sessionClosed, sessionId=35
+[2024/08/20-12:22:44.282]-******sessionClosed, sessionId=31
+[2024/08/20-12:22:44.283]-******sessionClosed, sessionId=30
+[2024/08/20-12:22:44.283]-******sessionClosed, sessionId=29
+[2024/08/20-12:22:44.284]-******sessionClosed, sessionId=26
+[2024/08/20-12:22:44.285]-******sessionClosed, sessionId=28
+[2024/08/20-12:22:44.286]-******sessionClosed, sessionId=27
+[2024/08/20-12:22:44.286]-******sessionClosed, sessionId=23
+[2024/08/20-12:22:44.288]-******sessionClosed, sessionId=25
+[2024/08/20-12:22:44.289]-******sessionClosed, sessionId=20
+[2024/08/20-12:22:44.289]-******sessionClosed, sessionId=21
+[2024/08/20-12:22:44.290]-******sessionClosed, sessionId=22
+[2024/08/20-12:22:44.291]-******sessionClosed, sessionId=24
+[2024/08/20-12:22:44.293]-******sessionClosed, sessionId=19
+[2024/08/20-12:22:44.294]-******sessionClosed, sessionId=17
+[2024/08/20-12:22:44.294]-******sessionClosed, sessionId=16
+[2024/08/20-12:22:44.295]-******sessionClosed, sessionId=14
+[2024/08/20-12:22:44.297]-******sessionClosed, sessionId=18
+[2024/08/20-12:22:44.297]-******sessionClosed, sessionId=15
+[2024/08/20-12:22:44.298]-******sessionClosed, sessionId=12
+[2024/08/20-12:22:44.298]-******sessionClosed, sessionId=13
+[2024/08/20-12:22:44.301]-******sessionClosed, sessionId=11
+[2024/08/20-12:22:44.301]-******sessionClosed, sessionId=7
+[2024/08/20-12:22:44.301]-******sessionClosed, sessionId=10
+[2024/08/20-12:22:44.301]-******sessionClosed, sessionId=8
+[2024/08/20-12:22:44.301]-******sessionClosed, sessionId=9
+[2024/08/20-12:40:29.642]-******sessionOpened,sessionId=59，ip=192.168.100.27
+[2024/08/20-12:40:29.643]-******sessionOpened,sessionId=57，ip=192.168.100.27
+[2024/08/20-12:40:29.643]-******sessionOpened,sessionId=58，ip=192.168.100.27
+[2024/08/20-12:40:29.643]-******sessionOpened,sessionId=60，ip=192.168.100.27
+[2024/08/20-12:40:29.642]-******sessionOpened,sessionId=61，ip=192.168.100.27
+[2024/08/20-12:40:29.696]-******create session,simCode=013100000001,creationTime=1724157629619
+[2024/08/20-12:40:29.700]-******create session,simCode=013100000002,creationTime=1724157629619
+[2024/08/20-12:40:29.714]-******create session,simCode=013100000000,creationTime=1724157629619
+[2024/08/20-12:40:29.854]-******create session,simCode=013100000003,creationTime=1724157629618
+[2024/08/20-12:40:30.439]-******create session,simCode=013100000004,creationTime=1724157629619
+[2024/08/20-12:45:29.857]-******session time out,close session , sessionId=013100000000
+[2024/08/20-12:45:29.857]-******session time out,close session , sessionId=013100000002
+[2024/08/20-12:45:29.857]-******session time out,close session , sessionId=013100000001
+[2024/08/20-12:45:29.858]-******device offline,simCode=013100000002
+[2024/08/20-12:45:29.858]-******device offline,simCode=013100000001
+[2024/08/20-12:45:29.858]-******device offline,simCode=013100000000
+[2024/08/20-12:45:29.910]-******session time out,close session , sessionId=013100000003
+[2024/08/20-12:45:29.910]-******device offline,simCode=013100000003
+[2024/08/20-12:45:30.364]-******sessionClosed, sessionId=58
+[2024/08/20-12:45:30.364]-******sessionClosed, sessionId=57
+[2024/08/20-12:45:30.364]-******sessionClosed, sessionId=59
+[2024/08/20-12:45:30.364]-******sessionClosed, sessionId=60
+[2024/08/20-12:45:30.585]-******session time out,close session , sessionId=013100000004
+[2024/08/20-12:45:30.585]-******device offline,simCode=013100000004
+[2024/08/20-12:45:30.586]-******sessionClosed, sessionId=61
+[2024/08/20-12:54:56.025]-******sessionOpened,sessionId=62，ip=192.168.100.27
+[2024/08/20-12:54:56.183]-******create session,simCode=013100000000,creationTime=1724158495975
+[2024/08/20-12:59:56.409]-******session time out,close session , sessionId=013100000000
+[2024/08/20-12:59:56.409]-******device offline,simCode=013100000000
+[2024/08/20-12:59:56.410]-******sessionClosed, sessionId=62
